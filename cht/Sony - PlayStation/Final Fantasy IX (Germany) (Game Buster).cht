@@ -1,7 +1,7 @@
 cheats = 24 
 
-cheat0_desc = "Alle FÃ¤higkeiten freigeschaltet"
-cheat0_code = "3008B716+00FF"
+cheat0_desc = "Max Gil"
+cheat0_code = "8008B7B0+967F"
 cheat0_enable = false 
 
 cheat1_desc = "Alle FÃ¤higkeiten aktiv (ROM-Version 2.2 oder hÃ¶her benÃ¶tigt)"
